@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <jlnarvaez_sample>
+            <params>
+                <enabled>1</enabled>
+                <custom_textarea>Esto es un valor por defecto</custom_textarea>
+                <custom_text>Prueba</custom_text>
+            </params>
+        </jlnarvaez_sample>
+    </default>
+</config>
